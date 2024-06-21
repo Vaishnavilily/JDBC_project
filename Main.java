@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class temp {
+public class Main {
     private static final String URL = "jdbc:mysql://localhost:3306/Inventory";
     private static final String USER = "root";
     private static final String PASSWORD = "vaishu,lily@123";
