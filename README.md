@@ -50,8 +50,4 @@ Connection connection = DriverManager.getConnection(url, username, password);
 
 2. The Users can select which CRUD Operation to Perform on the Database through Command-Line Interface
 
-## Future Goals:
 
-1. To Create a Web Application Using JSP and Java Servlets for users to Interact with the Application in a better manner
-
-2. Simplify the Code
