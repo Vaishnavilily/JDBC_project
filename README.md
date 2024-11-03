@@ -43,11 +43,22 @@ String password = "your_mysql_password";
 
 Connection connection = DriverManager.getConnection(url, username, password);
 ```
+## Connect Main Java file with JSP file
 
+1. Place your jspJava.java file in the webapps/your-web-app-name directory within your Tomcat installation directory. 
+2. Access the JSP file through a web browser using the appropriate URL, typically http://localhost:8080/your-web-app-name/jspJava.java.
+
+## Run the Project
+
+1. Ensure your MySQL server is running.
+2. Start the Apache Tomcat server.
+3. Access your project through a web browser by entering the appropriate URL, typically http://localhost:8080/your-web-app-name.
+   
 ## Progress:
 
 1. I have Connected the JDBC and loaded necessary Drivers into my Project
-
 2. The Users can select which CRUD Operation to Perform on the Database through Command-Line Interface
+
+Feel free to reach out if you have any questions or need further assistance with running your Inventory Tracking System project with Apache Tomcat integration!
 
 
