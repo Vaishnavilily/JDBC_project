@@ -61,4 +61,7 @@ Connection connection = DriverManager.getConnection(url, username, password);
 
 Feel free to reach out if you have any questions or need further assistance with running your Inventory Tracking System project with Apache Tomcat integration!
 
-
+```python
+a=10
+print(a)
+```
